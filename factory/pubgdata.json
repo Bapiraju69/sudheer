@@ -1,0 +1,9 @@
+{
+	"name": "pubgdata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55291bf4-ff31-4150-af5f-991afa19423c",
+		"tenantId": "54a683a8-7ef6-4c92-9141-607f6378fed6"
+	}
+}
